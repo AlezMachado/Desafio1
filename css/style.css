@@ -229,13 +229,13 @@ section#contenido_gris{
 }
 
 #footer{
-    color: #1D1D1D;
+    color: #F7F9F9;
     width: 940px;
     height: 20px;
     font-weight: bold;
     padding-top: 20px;
     text-align: center;
-    text-shadow: 1px 1px #FFF;
+   
 }
 form  {
     text-align: center;
