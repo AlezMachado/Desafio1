@@ -130,15 +130,6 @@ ul#menu li a{
     text-decoration: none;
 }
 
-ul#menu li.current a{
-    color: #3498DB ;
-    text-shadow: none;
-}
-
-ul#menu li.hover a{
-    color: #3498DB ;
-    text-shadow: none;
-}
 
 #universidad {
     width: 300px;
@@ -245,4 +236,16 @@ section#contenido_gris{
     padding-top: 20px;
     text-align: center;
     text-shadow: 1px 1px #FFF;
+}
+form  {
+    text-align: center;
+    color: #154360;
+    font-size: 25px;
+    font-weight: bold;
+}
+.centrado{
+    text-align: center;
+    font-size: 25px;
+    color:#154360;
+    font-weight: bold;
 }
